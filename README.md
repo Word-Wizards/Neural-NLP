@@ -15,7 +15,7 @@
 - It combines Word2Vec's context-based word embeddings with the information about word importance provided by TF-IDF.
 - We have evaluated our word2vec model by getting cosine similarity scores on pair of sentences, to get idea about similarity.
 
-- ##References:
+- ## References:
 - https://github.com/MiguelSteph/word2vec-with-gensim/blob/master/word2vec_model_on_avazon_review.ipynb
 - https://radimrehurek.com/gensim/models/word2vec.html
 
